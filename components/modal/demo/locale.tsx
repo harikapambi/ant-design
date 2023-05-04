@@ -26,10 +26,8 @@ const LocalizedModal = () => {
         okText="确认"
         cancelText="取消"
       >
-        <p>Bla bla ...</p>
-        <p>Bla bla ...</p>
-        <p>Bla bla ...</p>
-      </Modal>
+        <p>Are you sure you want to delete this trusted device ?</p>
+        </Modal>
     </>
   );
 };
